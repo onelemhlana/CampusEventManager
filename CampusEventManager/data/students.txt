@@ -1,0 +1,5 @@
+S001,Thabo Molefe,thabo@student.ac.za,Computer Science,2
+S002,Aisha Naidoo,aisha@student.ac.za,Information Systems,3
+S003,Johan van der Berg,johan@student.ac.za,Software Engineering,1
+S004,Lerato Dlamini,lerato@student.ac.za,Computer Science,2
+S005,Priya Patel,priya@student.ac.za,Data Science,3

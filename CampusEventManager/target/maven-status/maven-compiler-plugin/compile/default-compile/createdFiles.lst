@@ -1,0 +1,17 @@
+model\Registrable.class
+io\FileHandler.class
+model\Organizer.class
+exceptions\DuplicateRegistrationException.class
+gui\MainFrame.class
+model\Event.class
+gui\MainFrame$3.class
+main\Main.class
+model\DataManager.class
+model\Person.class
+gui\MainFrame$2.class
+gui\LoginDialog$1.class
+model\Student.class
+com\mycompany\campuseventmanager\CampusEventManager.class
+gui\LoginDialog.class
+exceptions\EventFullException.class
+gui\MainFrame$1.class
